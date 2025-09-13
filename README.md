@@ -1,6 +1,6 @@
 <!-- Profile README for Florex0Real -->
 
-<h1 align="center">Hi there 👋, I'm Florex0Real!</h1>
+<h1 align="center">Hi, I'm Florex!</h1>
 <p align="center">🌐 Linux enthusiast • 💻 Developer</p>
 <p align="center">
   <a href="https://github.com/Florex0Real"><img src="https://img.shields.io/github/followers/Florex0Real?label=Follow&style=social" alt="GitHub"></a>
