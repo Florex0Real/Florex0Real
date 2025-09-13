@@ -50,8 +50,8 @@
 
 ## 🔗 Connect with Me
 
-- 🌐 Portfolio: [florex0real.github.io](https://florex0real.github.io)
-- 📫 Email: _[your-email-here]_ <!-- Add your email if you wish -->
+- 🌐 Portfolio: [florex0real.github.io](k-on.com.tr)
+- 📫 Email: _[florexwasofficial@gmail.com]_(florexwasofficial@gmail.com)
 - 💬 Discord: _[your-discord-id]_ <!-- Add your Discord if you wish -->
 
 ---
