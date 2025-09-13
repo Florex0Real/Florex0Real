@@ -1,7 +1,7 @@
 <!-- Profile README for Florex0Real -->
 
 <h1 align="center">Hi there 👋, I'm Florex0Real!</h1>
-<p align="center">🌐 Linux enthusiast • 💻 Developer • 🚀 Automation lover</p>
+<p align="center">🌐 Linux enthusiast • 💻 Developer</p>
 <p align="center">
   <a href="https://github.com/Florex0Real"><img src="https://img.shields.io/github/followers/Florex0Real?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://florex0real.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet" alt="Portfolio"></a>
@@ -51,8 +51,8 @@
 ## 🔗 Connect with Me
 
 - 🌐 Portfolio: [florex0real.github.io](k-on.com.tr)
-- 📫 Email: _[florexwasofficial@gmail.com]_(florexwasofficial@gmail.com)
-- 💬 Discord: _[your-discord-id]_ <!-- Add your Discord if you wish -->
+- 📫 Email: (florexwasofficial@gmail.com)
+- 💬 Discord: florex0real
 
 ---
 
