@@ -104,7 +104,7 @@ const currentProjects = {
 
 ---
 
-### 💭 *"Clean code and good music make the perfect development environment"*
+### 💭 *"Clean code and continuous learning drive great software"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Florex0Real&color=FF6B35&style=for-the-badge)
 
