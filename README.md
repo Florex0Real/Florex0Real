@@ -36,7 +36,7 @@
 |---------|-------------|-------|
 | **[linux-system-manager](https://github.com/Florex0Real/linux-system-manager)** | Manage and automate Linux system tasks | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | **[RedditScraper](https://github.com/Florex0Real/RedditScraper)** | Scrape Reddit data for analysis and fun | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[florex0real.github.io](https://github.com/Florex0Real/florex0real.github.io)** | My personal portfolio site | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **[My Site](https://k-on.com.tr/)** | My personal portfolio site | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
 
 ---
 
