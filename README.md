@@ -94,43 +94,28 @@ const currentProjects = {
 
 ---
 
-## 💫 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Florex0Real&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)](https://github.com/Florex0Real)
-
-*More awesome projects loading... 🚀*
-
-</div>
-
----
-
 ## 🌟 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Florex0Real)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 ---
 
-### 💭 *"Code is poetry written in logic, and rock music is the soundtrack to innovation"*
+### 💭 *"Clean code and good music make the perfect development environment"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Florex0Real&color=FF6B35&style=for-the-badge)
 
-⭐ **Fun Fact:** I've found that the best debugging sessions happen with a good guitar solo in the background! 🎸🐛
+⭐ **Currently exploring:** Linux system administration and bash scripting while building awesome frontend experiences!
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Snake Animation](https://raw.githubusercontent.com/Florex0Real/Florex0Real/output/github-contribution-grid-snake-dark.svg)
 
-**Thanks for visiting! Keep coding and keep rocking! 🤘💻**
+**Thanks for visiting! Happy coding! 💻✨**
 
 </div>
