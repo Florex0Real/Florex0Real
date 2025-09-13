@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/Florex0Real"><img src="https://img.shields.io/github/followers/Florex0Real?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://florex0real.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet" alt="Portfolio"></a>
+  <a href="https://github.com/Florex0Real"><img src="https://komarev.com/ghpvc/?username=Florex0Real&label=Profile%20Visits&color=brightgreen&style=flat" alt="Profile Visits"></a>
 </p>
 
 ---
